@@ -1,0 +1,3 @@
+psutil
+win10toast
+playsound==1.2.2
